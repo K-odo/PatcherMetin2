@@ -1,0 +1,14 @@
+Module Name: C:\Users\AstiM\Desktop\Binary\Binary\Halikarnas2Client.bin
+Time Stamp: 0x000000ca - Sat Apr 20 03:09:30 2024
+
+
+Exception Type: 0xc0000005
+
+Rax: 0x00000000	Rbx: 0x16856402668958856629
+Rcx: 0x16856402668958856629	Rdx: 0x00002482
+Rsi: 0x140699888706556	Rdi: 0x00002482
+Rbp: 0x00000000	Rsp: 0x691880847136
+
+140719160829280 KERNEL32!BaseThreadInitThunk
+140719181179424 ntdll!RtlUserThreadStart
+
